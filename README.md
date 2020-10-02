@@ -1,1 +1,1 @@
-# The button is OFF
+# The button is BEING TURNED ON REPEATEDLY
